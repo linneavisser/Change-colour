@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    min-height: 100vh;
+    padding: 40px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 90vh;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 17rem;
+    color: rgb(12, 12, 12);
+    text-transform: uppercase;
+}
