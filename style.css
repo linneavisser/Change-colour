@@ -26,8 +26,8 @@ main{
 
 h1{
     font-family: 'Favorit', sans-serif;
-    font-size: 8rem;
+    font-size: 17rem;
     color: rgb(12, 12, 12);
-    grid-column-start: 4;
     text-align: center;
+    text-transform: uppercase;
 }
